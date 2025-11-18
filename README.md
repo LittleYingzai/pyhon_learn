@@ -1,2 +1,2 @@
 # pyhon_learn
-pythn及算法基础知识学习
+python及算法基础知识学习
